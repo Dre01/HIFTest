@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Dre01/hiftest/static/css/main.96074c82.css",
-    "main.js": "/Dre01/hiftest/static/js/main.c389c752.js",
-    "static/js/787.be35e6cb.chunk.js": "/Dre01/hiftest/static/js/787.be35e6cb.chunk.js",
-    "static/media/types of hair 2.png": "/Dre01/hiftest/static/media/types of hair 2.5c0d508b67bde4f32f5f.png",
-    "static/media/desingJustice Img .png": "/Dre01/hiftest/static/media/desingJustice Img .7bd579cbc9df34c05b61.png",
-    "static/media/types of hair.jpg": "/Dre01/hiftest/static/media/types of hair.92148c64913037a6091e.jpg",
-    "static/media/designJusticeImage.png": "/Dre01/hiftest/static/media/designJusticeImage.3bf37caec538cb6a2647.png",
-    "static/media/Blogpost3.png": "/Dre01/hiftest/static/media/Blogpost3.0d5676d77479a2e9b0ae.png",
-    "static/media/landingpage_Wireframe..png": "/Dre01/hiftest/static/media/landingpage_Wireframe..0045b96b328f53381690.png",
-    "static/media/BlogpostWireframe.png": "/Dre01/hiftest/static/media/BlogpostWireframe.fe9d9fff2020703b66a9.png",
-    "static/media/Blogpost1 .png": "/Dre01/hiftest/static/media/Blogpost1 .63ec566726842c6a1732.png",
-    "static/media/Blogs_landing_pages.png": "/Dre01/hiftest/static/media/Blogs_landing_pages.af7068905ddfa5485153.png",
-    "static/media/colourGuide.png": "/Dre01/hiftest/static/media/colourGuide.301e83515b37b27465d5.png",
-    "static/media/anarchicStructure.png": "/Dre01/hiftest/static/media/anarchicStructure.b2dd7b5aca9eb78ec610.png",
-    "static/media/contact_page_wireframe.png": "/Dre01/hiftest/static/media/contact_page_wireframe.09ad42b7418027854ce4.png",
-    "static/media/logo.png": "/Dre01/hiftest/static/media/logo.aef8f4401a2f1d761928.png",
-    "static/media/roundSmall Logo.png": "/Dre01/hiftest/static/media/roundSmall Logo.8af1324dfd29b6285d65.png",
-    "static/media/Blogpost2.png": "/Dre01/hiftest/static/media/Blogpost2.28843141904efc40a816.png",
-    "index.html": "/Dre01/hiftest/index.html",
-    "main.96074c82.css.map": "/Dre01/hiftest/static/css/main.96074c82.css.map",
-    "main.c389c752.js.map": "/Dre01/hiftest/static/js/main.c389c752.js.map",
-    "787.be35e6cb.chunk.js.map": "/Dre01/hiftest/static/js/787.be35e6cb.chunk.js.map"
+    "main.css": "/HIFTest/static/css/main.96074c82.css",
+    "main.js": "/HIFTest/static/js/main.1dcd71cc.js",
+    "static/js/787.be35e6cb.chunk.js": "/HIFTest/static/js/787.be35e6cb.chunk.js",
+    "static/media/types of hair 2.png": "/HIFTest/static/media/types of hair 2.5c0d508b67bde4f32f5f.png",
+    "static/media/desingJustice Img .png": "/HIFTest/static/media/desingJustice Img .7bd579cbc9df34c05b61.png",
+    "static/media/types of hair.jpg": "/HIFTest/static/media/types of hair.92148c64913037a6091e.jpg",
+    "static/media/designJusticeImage.png": "/HIFTest/static/media/designJusticeImage.3bf37caec538cb6a2647.png",
+    "static/media/Blogpost3.png": "/HIFTest/static/media/Blogpost3.0d5676d77479a2e9b0ae.png",
+    "static/media/landingpage_Wireframe..png": "/HIFTest/static/media/landingpage_Wireframe..0045b96b328f53381690.png",
+    "static/media/BlogpostWireframe.png": "/HIFTest/static/media/BlogpostWireframe.fe9d9fff2020703b66a9.png",
+    "static/media/Blogpost1 .png": "/HIFTest/static/media/Blogpost1 .63ec566726842c6a1732.png",
+    "static/media/Blogs_landing_pages.png": "/HIFTest/static/media/Blogs_landing_pages.af7068905ddfa5485153.png",
+    "static/media/colourGuide.png": "/HIFTest/static/media/colourGuide.301e83515b37b27465d5.png",
+    "static/media/anarchicStructure.png": "/HIFTest/static/media/anarchicStructure.b2dd7b5aca9eb78ec610.png",
+    "static/media/contact_page_wireframe.png": "/HIFTest/static/media/contact_page_wireframe.09ad42b7418027854ce4.png",
+    "static/media/logo.png": "/HIFTest/static/media/logo.aef8f4401a2f1d761928.png",
+    "static/media/roundSmall Logo.png": "/HIFTest/static/media/roundSmall Logo.8af1324dfd29b6285d65.png",
+    "static/media/Blogpost2.png": "/HIFTest/static/media/Blogpost2.28843141904efc40a816.png",
+    "index.html": "/HIFTest/index.html",
+    "main.96074c82.css.map": "/HIFTest/static/css/main.96074c82.css.map",
+    "main.1dcd71cc.js.map": "/HIFTest/static/js/main.1dcd71cc.js.map",
+    "787.be35e6cb.chunk.js.map": "/HIFTest/static/js/787.be35e6cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96074c82.css",
-    "static/js/main.c389c752.js"
+    "static/js/main.1dcd71cc.js"
   ]
 }
